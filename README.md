@@ -1,0 +1,1 @@
+# javascript-ninja-style-test
